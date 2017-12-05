@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+	color: #706c6c;
+	/*text-align: center;*/
+	margin: auto;
+}
+
+h1 {
+	background: #62b7db;
+	width: 490px;
+	color: #dee8e6;
+	text-transform: uppercase;
+	padding: 20px 5px;
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+#container {
+	background: #dee8e6;
+	width: 500px;
+	height: 500px;
+	margin-bottom: 150px;
+	padding: 20px 0;
+}
+
+#button {
+	padding: 5px;
+	border: 1px solid #fff;
+	font-size: 12px;
+	background-color: #eee;
+}
+
+#clear {
+	padding: 5px;
+	border: 1px solid #fff;
+	font-size: 12px;
+	background-color: #eee;
+}
